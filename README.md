@@ -2,8 +2,6 @@
 
 Aplicación Android nativa para explorar series de TV, desarrollada como prueba técnica. Consume la API pública de [TVMaze](https://www.tvmaze.com/api) con persistencia local, favoritos, modo offline y animaciones cinematográficas.
 
-📦 **[Descargar APK](apk/CineExplorer-v1.0.0.apk)**
-
 ---
 
 ## Pantallas
@@ -15,9 +13,12 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
     <td align="center"><b>Home</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0e4791c9-377a-46f4-9f1a-52f679042b0a" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/fb7062d9-3a8e-490f-a47d-fcde7ee4ab4d" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b1d83ca0-074f-422d-95a7-d1d84209ce0c" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/eed3ece5-5b7f-4c7d-93ed-5e82e7d15d12" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/27bdc435-9b43-4fac-a44c-77d26eeb409c" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6d64044b-643d-4545-a47d-4c7d0e3c82c8" width="220"/></td>
+
+
+
   </tr>
   <tr>
     <td align="center"><b>Catálogo</b></td>
@@ -25,9 +26,9 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
     <td align="center"><b>Detalle — Episodios</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dec8d16c-443a-4662-b8b0-c38f0a37ea73" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f3970473-c932-44d6-bcee-ae6c4952a72d" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/afa78cc4-9f7c-4fde-8ca5-e110d4ea82bd" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/16125e95-9393-4ec6-be45-eb5ef6da402e" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f6a4c514-3e49-4561-80eb-33653819da2f" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/93880bb1-3a02-401a-b707-ef912ddb60bc" width="220"/></td>
   </tr>
   <tr>
     <td align="center"><b>Detalle — Elenco y Sinopsis</b></td>
@@ -35,9 +36,9 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
     <td align="center"><b>Dispositivo</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cbf31d28-6875-41b9-9516-cefc42d6669f" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/661aa39b-a3cc-4f92-9029-5fe71d68c8aa" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/20efbaa6-0582-4709-9a19-e3ec53358bde" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3fd84312-a429-4c65-9cec-ca1772a3c9b6" width="220"/></td>
+     <td><img src="https://github.com/user-attachments/assets/b5b00cd3-4cf2-403e-b9fa-9f775b77ee2f" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/76d4f71e-8ded-46d5-b2b7-e5ef55382a2b" width="220"/></td>
   </tr>
 </table>
 
