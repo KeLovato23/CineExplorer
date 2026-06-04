@@ -14,8 +14,8 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/eed3ece5-5b7f-4c7d-93ed-5e82e7d15d12" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/16125e95-9393-4ec6-be45-eb5ef6da402e" width="220"/></td>
     <td><img src="https://github.com/user-attachments/assets/27bdc435-9b43-4fac-a44c-77d26eeb409c" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/16125e95-9393-4ec6-be45-eb5ef6da402e" width="220"/></td>
 
 
   </tr>
