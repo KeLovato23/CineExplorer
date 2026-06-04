@@ -13,9 +13,11 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
     <td align="center"><b>Home</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b5b00cd3-4cf2-403e-b9fa-9f775b77ee2f" width="220"/></td>
     <td><img src="https://github.com/user-attachments/assets/eed3ece5-5b7f-4c7d-93ed-5e82e7d15d12" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/16125e95-9393-4ec6-be45-eb5ef6da402e" width="220"/></td>
     <td><img src="https://github.com/user-attachments/assets/27bdc435-9b43-4fac-a44c-77d26eeb409c" width="220"/></td>
+
+
   </tr>
   <tr>
     <td align="center"><b>Catálogo</b></td>
@@ -23,9 +25,9 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
     <td align="center"><b>Detalle — Episodios</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6d64044b-643d-4545-a47d-4c7d0e3c82c8" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/76d4f71e-8ded-46d5-b2b7-e5ef55382a2b" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/16125e95-9393-4ec6-be45-eb5ef6da402e" width="220"/></td>
+     <td><img src="https://github.com/user-attachments/assets/6d64044b-643d-4545-a47d-4c7d0e3c82c8" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f6a4c514-3e49-4561-80eb-33653819da2f" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/93880bb1-3a02-401a-b707-ef912ddb60bc" width="220"/></td>
   </tr>
   <tr>
     <td align="center"><b>Detalle — Elenco y Sinopsis</b></td>
@@ -33,9 +35,9 @@ Aplicación Android nativa para explorar series de TV, desarrollada como prueba 
     <td align="center"><b>Dispositivo</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f6a4c514-3e49-4561-80eb-33653819da2f" width="220"/></td>
-    <td><img src="https://github.com/user-attachments/assets/93880bb1-3a02-401a-b707-ef912ddb60bc" width="220"/></td>
     <td><img src="https://github.com/user-attachments/assets/3fd84312-a429-4c65-9cec-ca1772a3c9b6" width="220"/></td>
+     <td><img src="https://github.com/user-attachments/assets/b5b00cd3-4cf2-403e-b9fa-9f775b77ee2f" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/76d4f71e-8ded-46d5-b2b7-e5ef55382a2b" width="220"/></td>
   </tr>
 </table>
 
